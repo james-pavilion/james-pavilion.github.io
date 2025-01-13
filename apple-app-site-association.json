@@ -1,0 +1,21 @@
+{
+    "appclips": {
+      "apps": [
+        "BW4X72F22B.app.ppgslabs.vip-mobility.Clip"
+      ]
+    },
+    "applinks": {
+      "details": [
+        {
+          "appIDs": [
+            "BW4X72F22B.app.ppgslabs.vip-mobility.Clip"
+          ],
+          "components": [
+            {
+              "/": "/gohere"
+            }
+          ]
+        }
+      ]
+    }
+  }
